@@ -30,7 +30,6 @@ const DataItems = () => {
     useSelector((state) => state.data);
   const [viewMode, setViewMode] = useState("List");
   const [prevFilteredItems, setPrevFilteredItems] = useState([]);
-  console.log("filteredItems:", filteredItems); // Add this line
 
   useEffect(() => {
     setPrevFilteredItems(filteredItems);
