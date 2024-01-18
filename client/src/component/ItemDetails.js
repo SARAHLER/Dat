@@ -50,7 +50,7 @@ const ItemDetails = () => {
     alt="Poster"
     style={{ width: '15rem', height: '17rem', marginBottom: '1rem' }}
     onError={(e) => {
-      e.target.src = 'כתובת התמונה לא קיים';
+      e.target.src = 'The image address does not exist';
     }}
   />
   <Box mt={2}>
@@ -59,7 +59,7 @@ const ItemDetails = () => {
       color="primary"
       onClick={() => navigate('/')}
     >
-      הקודם
+      previous
     </Button>
   </Box>
 </Box>
