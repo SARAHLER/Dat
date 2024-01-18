@@ -64,7 +64,6 @@ const Cards = ({ viewMode }) => {
   const ContainerComponent = viewMode === "Grid" ? Grid : List;
 
   useEffect(() => {
-    console.log("filteredItems in Cards:", filteredItems);
   }, [filteredItems]);
 
   const handleInputChange = (e, imdbID) => {
