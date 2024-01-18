@@ -22,6 +22,10 @@ Refresh: A refresh that will refresh the data again from the server
 Sort Order:
 ![image](https://github.com/SARAHLER/Dat/assets/74296156/003ae1b4-7493-4210-9e01-bc38ce9a7469)
 
+By clicking on the title there is an option to edit the name of the title:
+
+![image](https://github.com/SARAHLER/Dat/assets/74296156/7707e731-3718-4af4-8eb8-6dc68e01c9b8)
+
 By clicking on the image, you go to all the details of the object
 
 ![Uploading image.png…]()
